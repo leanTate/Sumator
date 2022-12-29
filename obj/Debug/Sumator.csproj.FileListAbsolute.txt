@@ -1,0 +1,15 @@
+C:\Users\Lean\source\repos\Sumator\bin\Debug\Sumator.exe.config
+C:\Users\Lean\source\repos\Sumator\bin\Debug\Sumator.exe
+C:\Users\Lean\source\repos\Sumator\bin\Debug\Sumator.pdb
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.csproj.AssemblyReference.cache
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.Form1.resources
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.csproj.GenerateResource.cache
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.exe
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.pdb
+C:\Users\Lean\source\repos\Sumator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lean\source\repos\Sumator\bin\Debug\itextsharp.dll
+C:\Users\Lean\source\repos\Sumator\bin\Debug\itextsharp.xml
+C:\Users\Lean\source\repos\Sumator\obj\Debug\Sumator.csproj.CopyComplete
